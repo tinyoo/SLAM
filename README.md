@@ -21,9 +21,9 @@ The contents are showed below.
 #### Feature Point Method
 #### Direct method
 
-### Backend optimization
+### Backend Optimization
 
-### Loop detection
+### Loop Closing
 
 ### Mapping
 
