@@ -5,26 +5,28 @@ The contents are showed below.
 
 ## Mathematics
 
-### Introduction to SLAM
+#### Introduction to SLAM
 
-### Three - dimensional motion
+#### Three - dimensional motion
 
-### Lie groups and Lie algebras
+#### Lie groups and Lie algebras
 
-### Pinhole camera
+#### Pinhole camera
 
-### Nonlinear optimization
+#### Nonlinear optimization
 
 ## Something about SLAM
 
-### Visual Odometer
-#### Feature Point Method
-#### Direct method
+#### Visual Odometer
 
-### Backend Optimization
+##### 	Feature Point Method
 
-### Loop Closing
+##### 	Direct method
 
-### Mapping
+#### Back End Optimization
 
-### Projects and future development
+#### Loop Closing
+
+#### Mapping
+
+#### Projects and future development
